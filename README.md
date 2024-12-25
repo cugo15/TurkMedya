@@ -17,6 +17,7 @@ e entegre çalışıyor. Bu sayede, tıpkı popüler müzik ve video uygulamalar
 | Home    |   Notification|    LockScreen |   Details |
 | ----------- | ---------------- |------------------ | ------------------ | 
 ![home_ss](https://github.com/user-attachments/assets/5de96e66-b6f8-475e-92cb-4598337ca815) | ![notification_ss](https://github.com/user-attachments/assets/4c1095b5-74ee-444e-a53c-14c9a3dd7df4) | ![lockscreen_ss2](https://github.com/user-attachments/assets/83b82237-1fa3-40c3-b7cb-638e16658214) | ![details_ss](https://github.com/user-attachments/assets/ed43912b-a3b7-47e2-8331-9fb703cae225)
+
 #Kullanım
 -https://github.com/user-attachments/assets/195c4588-de29-42c9-902c-2e8d6fbfb4ee
 
