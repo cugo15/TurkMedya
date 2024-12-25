@@ -1,4 +1,5 @@
 # Kullanılan Teknolojiler Ve Kütüphaneler :
+
 -Projede canlı yayın işlemleri için ExoPlayer tercih edildi. 
 -Kodun düzenli ve kolay yönetilebilir olması için Dagger Hilt kullanıldı.
 -Veri katmanı ve UI ayrı tutuldu; bu ayrımı MVVM mimarisiyle sağladım.
@@ -7,6 +8,7 @@
 -Resim yükleme işlemleri için Glide tercih edildi.
 -Viewlara erişim ViewBinging ile sağlandı ve her fragmentta tekrar tekrar binding işlemlerini tanımlamakla uğraşmamak için bir BaseFragment sınıfı oluşturulup binding işlemleri orada halledildi
 # Uygulamanın Kullanımı :
+
 -Uygulamayı açtığınızda, en üstte sizi bir canlı yayın karşılıyor. Bu yayın, ExoPlayer ile sağlanıyor ve foreground servislerl
 e entegre çalışıyor. Bu sayede, tıpkı popüler müzik ve video uygulamalarında olduğu gibi, uygulama arka planda olsa bile bildirim üzerinden yayını kontrol edebiliyorsunuz. Oynatmayı durdurma ve devam ettirme işlemleri bildirim panelinden kolayca yapılabiliyor. Uygulama arka plandayken hatta telefon kilit ekranındayken bile canlı yayın devam ediyor.
 
