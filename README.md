@@ -14,7 +14,7 @@ e entegre çalışıyor. Bu sayede, tıpkı popüler müzik ve video uygulamalar
 -HaberDetaylarında yine bir RecyclerView yapısı kullanılıyor ViewPager yapısına benzer bir kullanım sağlıyor böylelikle kullanıcı bir haberin detayına girdikten sonra sıralı bir şekilde kaydırarak diğer haberlerin detaylarını okumaya devam edebilir.
 
 # TürkMedya
-| Home Screen |   Notification   |    LockScreen     |
+| home_ss |   notification_ss   |    lockscreen_ss2     |
 
 | ----------- | ---------------- |------------------ | 
 
